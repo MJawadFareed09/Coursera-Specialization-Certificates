@@ -1,65 +1,76 @@
-# Coursera-Specialization-Certificates
+# Hi 👋, I'm Mohammad Jawad Fareed  
 
-# 📜 Coursera Certifications  
-
-This repository showcases the professional certifications I have completed through Coursera, which have strengthened my expertise in Artificial Intelligence, Data Science, and Analytical Modeling.
+### AI Researcher | Medical Image Analysis Specialist | Educator | Tech Enthusiast  
 
 ---
 
-## 🎓 Professional Development Overview  
-
-Through internationally recognized Coursera programs, I have completed structured coursework designed by leading global universities and industry experts. These certifications have enhanced both my theoretical foundation and practical implementation skills.
+## 🌟 Welcome to My GitHub!
 
 ---
 
-## 🧠 Artificial Intelligence & Machine Learning  
+## 👨‍💻 About Me  
 
-- Supervised & Unsupervised Learning Techniques  
-- Neural Networks & Deep Learning Fundamentals  
-- Model Evaluation & Optimization  
-- Regularization, Bias-Variance Tradeoff  
-- Practical Implementation using Python  
+I am a passionate AI researcher and software professional with a strong academic foundation in Computer Science and hands-on experience in research, teaching, and applied machine learning.  
 
-These courses strengthened my understanding of designing intelligent systems and deploying predictive models for real-world applications.
+My journey blends deep technical expertise with analytical thinking, allowing me to design intelligent systems that solve real-world problems — especially in the healthcare domain.
+
+With peer-reviewed international conference publications and active research involvement, I continuously strive to bridge theory with practical innovation.
 
 ---
 
-## 📊 Data Science & Data Analytics  
+## 💡 Core Expertise  
 
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Statistical Analysis & Probability  
-- Data Visualization Techniques  
-- Analytical Decision-Making  
+### 🧠 Medical Image Processing & Analysis  
+- MRI-based Brain Tumor Classification  
+- Medical Image Segmentation  
+- Attention Mechanisms  
+- Multi-scale Feature Extraction  
+- Cross-Modality MRI Learning  
 
-This training enhanced my ability to extract meaningful insights from complex datasets using structured analytical approaches.
+### 🤖 Machine Learning & Deep Learning  
+- CNN Architectures (VGG, MobileNet, Custom Hybrid Models)  
+- Model Optimization & Regularization  
+- Classification, Segmentation & Regression Models  
+- Feature Engineering & Representation Learning  
 
----
+### 👁️ Computer Vision  
+- Image Enhancement  
+- Super-Resolution Techniques  
+- Medical Image Preprocessing  
+- Performance Evaluation Metrics  
 
-## 👁️ Computer Vision & Image Processing  
+### 📊 Data Science & Analytical Modeling  
+- Statistical Modeling  
+- Mathematical Optimization  
+- Predictive Analysis  
+- Data-driven Decision Making  
 
-- Image Representation & Feature Extraction  
-- Convolutional Neural Networks (CNNs)  
-- Performance Metrics in Vision Tasks  
-- Real-world Applications in Medical Imaging  
-
-These certifications directly support my research in MRI-based classification and segmentation models.
-
----
-
-## 💻 Programming & Technical Tools  
-
-- Python for Data Science  
-- Scientific Computing Libraries (NumPy, Pandas, Matplotlib)  
-- Model Implementation & Experimentation  
-- Version Control Fundamentals  
-
----
-
-## 🚀 Impact on My Research  
-
-The knowledge gained from these certifications complements my academic research in medical image analysis, allowing me to integrate advanced deep learning methodologies with mathematical precision.
+### 📚 Education & Mentorship  
+Currently teaching Mathematics and English, helping students develop structured problem-solving skills and analytical thinking.
 
 ---
 
-📌 *Continuous learning is central to my professional journey. I remain committed to expanding my expertise and making meaningful contributions to AI-driven innovation.*
+## 🚀 Research Vision  
+
+My mission is to advance AI-driven healthcare solutions — particularly in medical imaging — by developing accurate, efficient, and clinically impactful models.
+
+I aim to contribute to the global research community through innovation, collaboration, and continuous learning.
+
+---
+
+## 📄 Publications  
+
+- 2D T1-Weighted CE MRI Images Classification with Hybrid Channel Attention Block enhanced VGG-16 and MobileNet (IEEE KHI-HTC 2024)  
+- Enhanced Cross-Modality MRI Segmentation Using Dilated Convolutions and Multi-Scale Gradient Map (ICSEC 2024)
+
+---
+
+## 🤝 Let’s Connect  
+
+If you're interested in AI research, medical imaging, collaborative projects, or academic innovation, feel free to connect and collaborate.
+
+📫 Email: jawadfarid679@gmail.com  
+
+---
+
+⭐ *“Building intelligent systems that make a real-world impact.”*
